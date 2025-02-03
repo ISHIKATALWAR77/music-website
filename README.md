@@ -1,4 +1,4 @@
-This project is a static website inspired by Apple's iTunes, built using HTML and CSS. It aims to replicate the visual aesthetics of iTunes with a structured and engaging UI. While the current version does not include responsiveness, it provides a strong foundation for styling and layout techniques.
+This project is a static music website , built using HTML and CSS. It aims to the visual aesthetics  with a structured and engaging UI. While the current version does not include responsiveness, it provides a strong foundation for styling and layout techniques.
 
 📌 Features
 ✅ Visually Appealing Design – Inspired by Apple's clean and minimalistic UI.
